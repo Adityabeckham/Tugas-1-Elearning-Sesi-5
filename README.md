@@ -35,7 +35,8 @@ Website ini memiliki beberapa komponen sesuai dengan ketentuan tugas:
 
 Berikut merupakan dokumentasi tampilan website yang telah dibuat:
 
-![Screenshot Website](screenshots/hasil-website.png)
+![Screenshot Website](<img width="1920" height="2247" alt="screenshoot" src="https://github.com/user-attachments/assets/118253c6-879d-4ba5-8357-427ab8a241d7" />
+)
 
 ## Struktur Repository
 
