@@ -36,9 +36,6 @@ Website ini memiliki beberapa komponen sesuai dengan ketentuan tugas:
 Berikut merupakan dokumentasi tampilan website yang telah dibuat:
 <img width="1920" height="2247" alt="screenshoot" src="https://github.com/user-attachments/assets/96bb869c-a167-4d3f-8935-09aa9544d2df" />
 
-## Link Deploy Preview
-[blob:https://codi.link/c5e689fd-6ddd-4a6d-95ba-59539d37abda]
-
 
 ## Struktur Repository
 
